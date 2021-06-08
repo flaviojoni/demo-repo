@@ -9,3 +9,4 @@ Entendendo como funciona Git e GitHub.
 ## Local Development
 
 1. Open index.html in your browser.
+2. Testando algumas coisas.
